@@ -2,9 +2,8 @@ export default function Intro() {
 
     return(
         <div>
-
-            <h1>Amiibo API</h1>
-            <p>This application is something about Amiibo.</p>
+            <h1>Want to see an Amiibo?</h1>
+            <p>This application allows you to grab some information on Nintendo Amiibos.</p>
         </div>
     )
 }

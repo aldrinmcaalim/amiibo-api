@@ -3,7 +3,7 @@ import { SyntheticEvent, useRef, useState } from 'react';
 import AmiiboTable from './amiibo-table';
 import {Amiibo} from './dtos/amiibo';
 
-export default function NintendoAmiiboLookUp() {
+export default function AmiiboCharacterLookUp() {
 
     const nintendoAmiiboInput = useRef<any>();
 
