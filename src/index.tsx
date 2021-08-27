@@ -8,7 +8,7 @@ import HomePage from './components/pages/home-page';
 ReactDOM.render(
   <React.StrictMode>
     <Router>
-      <Route path="/home">
+      <Route path="/">
         <HomePage></HomePage>
       </Route>
 
